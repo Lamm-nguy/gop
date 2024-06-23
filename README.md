@@ -17,4 +17,4 @@ python3 gop.py
 ```
 
 dung Termux (cai file apk tren web uy tin chu k dc cai ch play) neu nhu o tren dien thoai
-dung Xampp neu nhu o tren pc
+/dung Xampp neu nhu o tren pc
