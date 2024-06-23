@@ -1,0 +1,11 @@
+requests 
+bs4 
+pystyle 
+colorama 
+selenium 
+pycurl 
+beautifulsoup4 
+inquirer 
+pillow 
+console 
+pystyle
