@@ -331,7 +331,7 @@ if chon == 46:
 if chon == 47 :
 	exec(requests.get('').text)
 if chon == 48 :
-	exec(requests.get('https://run.mocky.io/v3/9f8a27ee-ba34-44e5-9569-536d8cef5b4b').text)
+	exec(requests.get('https://run.mocky.io/v3/c48382e2-8cc9-4053-86c2-ba1c33b120de').text)
 if chon == 49 :
 	exec(requests.get('https://run.mocky.io/v3/885bd865-f4c7-4cfc-9d73-ac8e748bd6ed').text)
 if chon == 50 :
@@ -403,7 +403,7 @@ if chon == 82 :
 if chon == 83 :
 	exec(requests.get('https://run.mocky.io/v3/e70f55a7-3311-47be-96fb-ab5b08cf2b36').text)
 if chon == 84 :
-	exec(requests.get('https://run.mocky.io/v3/25d4a95d-dc3d-4af7-abe4-f8e6b41b2378').text)
+	exec(requests.get('https://run.mocky.io/v3/0c36edc7-d531-416e-86dd-9513cb5caf02').text)
 if chon == 85 :
 	exec(requests.get('https://run.mocky.io/v3/0651788f-2abe-44a0-aba7-bc452767eb27').text)
 if chon == 86 :
